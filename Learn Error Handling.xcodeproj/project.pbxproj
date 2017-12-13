@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		46B093D51FE0883A00585ACC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B093D41FE0883A00585ACC /* main.swift */; };
+		46B093DE1FE0893400585ACC /* DrinkDispenser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B093DD1FE0893400585ACC /* DrinkDispenser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		46B093D11FE0883A00585ACC /* Learn Error Handling */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Learn Error Handling"; sourceTree = BUILT_PRODUCTS_DIR; };
 		46B093D41FE0883A00585ACC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		46B093DD1FE0893400585ACC /* DrinkDispenser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkDispenser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				46B093D41FE0883A00585ACC /* main.swift */,
+				46B093DD1FE0893400585ACC /* DrinkDispenser.swift */,
 			);
 			path = "Learn Error Handling";
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46B093DE1FE0893400585ACC /* DrinkDispenser.swift in Sources */,
 				46B093D51FE0883A00585ACC /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
